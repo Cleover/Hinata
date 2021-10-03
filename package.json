@@ -1,0 +1,19 @@
+{
+    "name": "roles",
+    "version": "0.1.0",
+    "description": "Haikyuu Volleycamp Roles Bot",
+    "main": "node index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines": {
+        "node": "16.x"
+    },
+    "author": "Cleo",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^13.0.0",
+        "dotenv": "^10.0.0",
+        "unshortener": "^0.1.0"
+    }
+}
